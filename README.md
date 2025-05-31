@@ -1,7 +1,7 @@
 # 🚉 **MTA Ridership Analysis AI Project**
 
 **🔗 [Kaggle Dataset: MTA Daily Ridership (2020–2024)](https://www.kaggle.com/datasets/)**  
-**🔗 [Colab Notebook Analysis (Pandas, Matplotlib, Seaborn)](https://colab.research.google.com/)**  
+
 **🔗 Live Visualization Dashboard – Coming Soon**
 
 ---
