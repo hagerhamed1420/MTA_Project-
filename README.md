@@ -100,7 +100,7 @@ Staten Island had the lowest total and recovery percentage
 ✅ Recommendations
 Increase staff, cleaning, and service availability in October, the peak ridership month
 
-Use October for public campaigns and new service announcements
+Use October for public campaigns and new service announcements.
 
 Plan maintenance and cost-saving actions in January and February, when ridership is low
 
