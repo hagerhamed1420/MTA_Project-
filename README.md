@@ -4,19 +4,18 @@
 🔗 [Live Visualization Dashboard – Coming Soon]
 
 👩‍💻 Team Members
-
 Aliaa Yasser
 
-Hager Hamed abdelrady
+Hager Hamed Abdelrady
 
 Nadia Hossny
 
 Abdelrhman Sobhy
 
 Ahmed Mohamed
+
 Under Supervision:
 Eng. Osama Adel
-
 
 📝 Project Description
 We developed a data science project focused on analyzing daily ridership data provided by the Metropolitan Transportation Authority (MTA), which operates New York’s largest public transport network.
@@ -57,9 +56,7 @@ Weekday vs. Weekend classification
 
 Filtering 2019 data for benchmarking
 
-Visualization Tools:
-
-Matplotlib, Seaborn, Pandas
+Visualization Tools: Matplotlib, Seaborn, Pandas
 
 Exploratory Data Analysis (EDA)
 
@@ -100,10 +97,10 @@ Staten Island had the lowest total and recovery percentage
 ✅ Recommendations
 Increase staff, cleaning, and service availability in October, the peak ridership month
 
-Use October for public campaigns and new service announcements.
+Use October for public campaigns and new service announcements
 
 Plan maintenance and cost-saving actions in January and February, when ridership is low
 
 Expand high-demand bus routes and reduce wait times
 
-Develop unified strategies for Metro North and LIRR due to similar behavior.
+Develop unified strategies for Metro North and LIRR due to similar behavior
