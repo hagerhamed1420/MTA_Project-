@@ -106,4 +106,4 @@ Plan maintenance and cost-saving actions in January and February, when ridership
 
 Expand high-demand bus routes and reduce wait times
 
-Develop unified strategies for Metro North and LIRR due to similar behavior
+Develop unified strategies for Metro North and LIRR due to similar behavior.
