@@ -1,10 +1,9 @@
 🚉 MTA Ridership Analysis AI Project
+🔗 [Kaggle Dataset: MTA Daily Ridership (2020–2024)]
 
-🔗 Kaggle Dataset: MTA Daily Ridership (2020–2024)
+🔗 [Colab Notebook Analysis (Pandas, Matplotlib, Seaborn)]
 
-🔗 Colab Notebook Analysis (Pandas, Matplotlib, Seaborn)
-
-🔗 Live Visualization Dashboard – Coming Soon
+🔗 [Live Visualization Dashboard – Coming Soon]
 
 👩‍💻 Team Members
 Aliaa Yasser
@@ -21,7 +20,7 @@ Under Supervision:
 Eng. Osama Adel
 
 📝 Project Description
-We developed a data science project focused on analyzing daily ridership data provided by the Metropolitan Transportation Authority (MTA), which operates New York’s largest public transport network.
+We developed a data science project focused on analyzing daily ridership data provided by the Metropolitan Transportation Authority (MTA), which operates the largest public transport network in New York.
 
 Our goal was to:
 
@@ -51,7 +50,7 @@ Service-specific ridership: Subways, Buses, Metro North, LIRR, AAR, Traffic
 🛠 Techniques Used
 Data Cleaning & Preparation
 
-Feature Engineering
+Feature Engineering, including:
 
 Calculating COVID recovery percentages
 
@@ -63,11 +62,10 @@ Exploratory Data Analysis (EDA)
 
 Time Series & Trend Analysis
 
-Visualization Tools:
-Power bi tool
+Visualization Tool: Power BI
 
 🚀 Dashboard/API Overview
-The project includes an upcoming dashboard for interactive analysis.
+The project includes an upcoming interactive dashboard for advanced ridership analysis.
 
 Features
 Web-based interface for ridership insights
@@ -76,7 +74,7 @@ Visual comparisons across all MTA services
 
 Seasonality analysis (fall/winter trends)
 
-Filterable by weekdays, weekends, or specific services
+Filtering options by weekday, weekend, or transport type
 
 🔥 Key Insights
 All services experienced a sharp decline in 2020
@@ -87,13 +85,13 @@ October recorded the highest ridership across all years
 
 No service surpassed a 75% recovery level
 
-Traffic via bridges and tunnels had the strongest recovery (+3%)
+Bridges and tunnels traffic showed the strongest recovery (+3%)
 
 Access-A-Ride (AAR) recovered by approximately 25%
 
-Winter months had the lowest ridership; fall had the highest
+Winter had the lowest ridership; fall had the highest
 
-Buses were initially higher than subways post-COVID but were surpassed by subways in late 2022
+Buses initially exceeded subways post-COVID, but were surpassed by subways by late 2022
 
 Metro North and Long Island Rail Road showed synchronized trends
 
@@ -104,8 +102,8 @@ Increase staff, cleaning, and service availability in October, the peak ridershi
 
 Use October for public awareness and new service announcements
 
-Schedule maintenance and cost-saving actions during January and February, when ridership is low
+Schedule maintenance and cost-saving measures during January and February, when ridership is low
 
 Expand high-demand bus routes and reduce waiting times
 
-Develop unified planning strategies for Metro North and LIRR based on their synchronized trends
+Develop unified strategies for Metro North and LIRR based on their synchronized behavior
